@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Марат Саринов](https://up.htmlacademy.ru/javascript/26/user/1708343).
-* Наставник: `Неизвестно`.
+* Наставник: `https://htmlacademy.ru/profile/fuckhtml`.
 
 ---
 
