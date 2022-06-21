@@ -1,7 +1,11 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Марат Саринов](https://up.htmlacademy.ru/javascript/26/user/1708343).
-* Наставник: `Александр Григорьев`.
+
+Студент: [Марат Саринов](https://up.htmlacademy.ru/javascript/26/user/1708343).
+
+Наставник: [Александр Григорьев](https://htmlacademy.ru/profile/fuckhtml).
+
+
 
 ---
 
